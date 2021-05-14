@@ -1,2 +1,3 @@
 # Java-Persistence-API-JPA-
 Aplicação básica de JPA para persistência de dados em bancos relacionais com Hibernate e implementação do DAO.
+Para que de tudo certo, fique atento a maneira de como se instalou o Driver do banco e o Hibernate...
